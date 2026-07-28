@@ -1,0 +1,6 @@
+# Baraare Agri-Livestock Initiative
+# Replace [DOMAIN] with the live domain before deploying.
+User-agent: *
+Allow: /
+
+Sitemap: https://[DOMAIN]/sitemap.xml

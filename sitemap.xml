@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace [DOMAIN] with the live domain (e.g. baraare.org) before deploying. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://[DOMAIN]/index.html</loc>
+    <lastmod>2026-07-28</lastmod>
+  </url>
+  <url>
+    <loc>https://[DOMAIN]/about.html</loc>
+    <lastmod>2026-07-28</lastmod>
+  </url>
+  <url>
+    <loc>https://[DOMAIN]/programs.html</loc>
+    <lastmod>2026-07-28</lastmod>
+  </url>
+  <url>
+    <loc>https://[DOMAIN]/water.html</loc>
+    <lastmod>2026-07-28</lastmod>
+  </url>
+  <url>
+    <loc>https://[DOMAIN]/partner.html</loc>
+    <lastmod>2026-07-28</lastmod>
+  </url>
+  <url>
+    <loc>https://[DOMAIN]/contact.html</loc>
+    <lastmod>2026-07-28</lastmod>
+  </url>
+</urlset>
