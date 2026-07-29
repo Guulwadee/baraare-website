@@ -1,6 +1,6 @@
 # Baraare Agri-Livestock Initiative
-# Replace [DOMAIN] with the live domain before deploying.
+# Update the URL below if the site moves to a custom domain.
 User-agent: *
 Allow: /
 
-Sitemap: https://[DOMAIN]/sitemap.xml
+Sitemap: https://baraare-website.vercel.app/sitemap.xml
