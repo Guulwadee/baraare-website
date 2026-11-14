@@ -1,5 +1,4 @@
 # Baraare Agri-Livestock Initiative
-# Update the URL below if the site moves to a custom domain.
 User-agent: *
 Allow: /
 
