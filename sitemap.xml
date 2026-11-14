@@ -1,28 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Update these URLs if the site moves to a custom domain. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://baraare-website.vercel.app/index.html</loc>
-    <lastmod>2026-07-29</lastmod>
+    <loc>https://baraareinitiative.org/index.html</loc>
+    <lastmod>2026-11-14</lastmod>
   </url>
   <url>
-    <loc>https://baraare-website.vercel.app/about.html</loc>
-    <lastmod>2026-07-29</lastmod>
+    <loc>https://baraareinitiative.org/about.html</loc>
+    <lastmod>2026-11-14</lastmod>
   </url>
   <url>
-    <loc>https://baraare-website.vercel.app/programs.html</loc>
-    <lastmod>2026-07-29</lastmod>
+    <loc>https://baraareinitiative.org/programs.html</loc>
+    <lastmod>2026-11-14</lastmod>
   </url>
   <url>
-    <loc>https://baraare-website.vercel.app/water.html</loc>
-    <lastmod>2026-07-29</lastmod>
+    <loc>https://baraareinitiative.org/water.html</loc>
+    <lastmod>2026-11-14</lastmod>
   </url>
   <url>
-    <loc>https://baraare-website.vercel.app/partner.html</loc>
-    <lastmod>2026-07-29</lastmod>
+    <loc>https://baraareinitiative.org/partner.html</loc>
+    <lastmod>2026-11-14</lastmod>
   </url>
   <url>
-    <loc>https://baraare-website.vercel.app/contact.html</loc>
-    <lastmod>2026-07-29</lastmod>
+    <loc>https://baraareinitiative.org/contact.html</loc>
+    <lastmod>2026-11-14</lastmod>
   </url>
 </urlset>

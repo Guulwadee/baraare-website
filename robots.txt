@@ -3,4 +3,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://baraare-website.vercel.app/sitemap.xml
+Sitemap: https://baraareinitiative.org/sitemap.xml

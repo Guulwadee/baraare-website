@@ -26,6 +26,8 @@ Deliberately minimal for low-bandwidth users:
 
 ## Deploying
 
-All links are relative — serve the folder as-is (GitHub Pages, Netlify, any static host). Before going live, search the repo for `[` and replace the remaining bracketed placeholders: `[DOMAIN]` (head tags, `sitemap.xml`, `robots.txt`), `[BOARD MEMBER NAMES AND SHORT BIOS]`, `[MOIFAR CERTIFICATE NUMBER]`, and the `[FIELD PHOTO — …]` blocks.
+Live at <https://baraareinitiative.org>, hosted on Vercel: every push to `main` deploys automatically, and `www` redirects to the bare domain. All links are relative, so the folder also works as-is on any static host. If the domain ever changes, update the canonical and `og:url` tags in each page, `sitemap.xml` and `robots.txt`.
+
+Remaining placeholders: the three `[FIELD PHOTO — …]` blocks (search the repo for `[FIELD PHOTO`).
 
 A Somali edition (`/so/`) is planned; nav and footer contain commented hooks for it.
