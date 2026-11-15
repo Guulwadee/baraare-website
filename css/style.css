@@ -675,6 +675,8 @@ strong { color: var(--ink); }
 
 .founder-card p { max-width: none; margin-bottom: 0; }
 
+.founder-role:last-child { margin-bottom: 0; }
+
 /* ---------- Programs: phases ---------- */
 
 .phase {
