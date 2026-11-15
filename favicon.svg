@@ -1,9 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <!-- Baraare favicon: a single acacia over pasture. Typographic brand; this is an icon, not an emblem. -->
-  <rect width="64" height="64" rx="12" fill="#1B5E43"/>
-  <path d="M12 22 Q32 10 52 22 L48 30 Q32 22 16 30 Z" fill="#F4F1E8"/>
-  <path d="M30 28 L34 28 L36 46 L28 46 Z" fill="#F4F1E8"/>
-  <path d="M31 34 L24 29 L25.5 27.5 L32 32 Z" fill="#F4F1E8"/>
-  <path d="M33 34 L40 29 L38.5 27.5 L32 32 Z" fill="#F4F1E8"/>
-  <rect x="12" y="48" width="40" height="3" rx="1.5" fill="#B9761F"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><title>BARAARE Agri-Livestock Initiative</title><rect width="256" height="256" rx="48" fill="#1B5E43"/><g transform="translate(0 -11)"><rect x="26" y="56" width="180" height="20" rx="10" fill="#F4F1E8"/><rect x="62" y="84" width="168" height="22" rx="11" fill="#F4F1E8"/><path transform="translate(4 0)" d="M114 200Q120 192 120 172Q112 140 80 98H96Q116 128 121 146V98H135V146Q140 128 160 98H176Q144 140 136 172Q136 192 142 200Z" fill="#F4F1E8"/><rect x="40" y="206" width="176" height="16" rx="8" fill="#B9761F"/></g></svg>
